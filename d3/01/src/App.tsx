@@ -1,10 +1,10 @@
 import React from 'react'
-import { Face } from './components/Face'
+import { Bar } from './components/Bar'
 
 function App() {
   return (
     <div className="App">
-      <Face />
+      <Bar />
     </div>
   )
 }
