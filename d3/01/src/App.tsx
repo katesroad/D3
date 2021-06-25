@@ -1,10 +1,10 @@
 import React from 'react'
-import { Bar } from './components/Bar'
+import { Population } from './components/Population'
 
 function App() {
   return (
     <div className="App">
-      <Bar />
+      <Population />
     </div>
   )
 }
